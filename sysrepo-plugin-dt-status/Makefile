@@ -15,9 +15,9 @@ PKG_MAINTAINER:=Antonio Paunovic <antonio.paunovic@sartura.hr>
 
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/sysrepo/sysrepo-plugin-dt-status
+PKG_SOURCE_URL:=https://github.com/wangweiqian/sysrepo-plugin-dt-status
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
-PKG_SOURCE_VERSION:=02d1a2b
+PKG_SOURCE_VERSION:=ff268959dbd5f30acaf33f30ce3d3d7387821a75
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION).tar.gz
 
 PKG_BUILD_PARALLEL:=1
